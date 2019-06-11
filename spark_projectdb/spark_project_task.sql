@@ -1,0 +1,1 @@
+insert into spark_project.task (task_id, task_name, create_time, start_time, finish_time, task_type, task_status, task_param) values (1, '测试任务1', null, null, null, null, null, '{"startAge":["0"], "endAge":["50"], "startDate":["2019-06-07"], "endDate":["2019-06-07"]}');
