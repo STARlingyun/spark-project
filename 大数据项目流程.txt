@@ -1,0 +1,508 @@
+{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww16680\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1
+\f1 \'a1\'a2\'b6\'d4\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'bd\'f8\'d0\'d0\'b7\'d6\'ce\'f6
+\f0 \
+2
+\f1 \'a1\'a2
+\f0 JDBC
+\f1 \'b8\'a8\'d6\'fa\'c0\'e0\'b7\'e2\'d7\'b0
+\f0 \
+3
+\f1 \'a1\'a2\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'be\'db\'ba\'cf\'cd\'b3\'bc\'c6
+\f0 \
+4
+\f1 \'a1\'a2\'b0\'b4\'ca\'b1\'bc\'e4\'b1\'c8\'c0\'fd\'cb\'e6\'bb\'fa\'b3\'e9\'c8\'a1
+\f0 session\
+5
+\f1 \'a1\'a2\'bb\'f1\'c8\'a1\'b5\'e3\'bb\'f7\'a1\'a2\'cf\'c2\'b5\'a5\'ba\'cd\'d6\'a7\'b8\'b6\'b4\'ce\'ca\'fd\'c5\'c5\'c3\'fb\'c7\'b0
+\f0 10
+\f1 \'b5\'c4\'c6\'b7\'c0\'e0
+\f0 \
+6
+\f1 \'a1\'a2\'bb\'f1\'c8\'a1
+\f0 top10
+\f1 \'c6\'b7\'c0\'e0\'b5\'c4\'b5\'e3\'bb\'f7\'b4\'ce\'ca\'fd\'d7\'ee\'b6\'e0\'b5\'c4
+\f0 10
+\f1 \'b8\'f6
+\f0 session\
+7
+\f1 \'a1\'a2\'b8\'b4\'d4\'d3\'d0\'d4\'c4\'dc\'b5\'f7\'d3\'c5\'c8\'ab\'cc\'d7\'bd\'e2\'be\'f6\'b7\'bd\'b0\'b8
+\f0 \
+8
+\f1 \'a1\'a2\'ca\'ae\'d2\'da\'bc\'b6\'ca\'fd\'be\'dd
+\f0 troubleshooting
+\f1 \'be\'ad\'d1\'e9\'d7\'dc\'bd\'e1
+\f0 \
+9
+\f1 \'a1\'a2\'ca\'fd\'be\'dd\'c7\'e3\'d0\'b1\'bd\'e2\'be\'f6\'b7\'bd\'b0\'b8
+\f0 \
+10
+\f1 \'a1\'a2\'c4\'a3\'bf\'e9\'b9\'a6\'c4\'dc\'d1\'dd\'ca\'be
+\f0 \
+\
+\
+\
+\
+
+\f1 \'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'bd\'e9\'c9\'dc\'a3\'ba
+\f0 \
+\
+
+\f1 \'d3\'c3\'bb\'a7\'d4\'da\'b5\'e7\'c9\'cc\'cd\'f8\'d5\'be\'c9\'cf\'a3\'ac\'cd\'a8\'b3\'a3\'bb\'e1\'d3\'d0\'ba\'dc\'b6\'e0\'b5\'c4\'b5\'e3\'bb\'f7\'d0\'d0\'ce\'aa\'a3\'ac\'ca\'d7\'d2\'b3\'cd\'a8\'b3\'a3\'b6\'bc\'ca\'c7\'bd\'f8\'c8\'eb\'ca\'d7\'d2\'b3\'a3\'bb\'c8\'bb\'ba\'f3\'bf\'c9\'c4\'dc\'b5\'e3\'bb\'f7\'ca\'d7\'d2\'b3\'c9\'cf\'b5\'c4\'d2\'bb\'d0\'a9\'c9\'cc\'c6\'b7\'a3\'bb\'b5\'e3\'bb\'f7\'ca\'d7\'d2\'b3\'c9\'cf\'b5\'c4\'d2\'bb\'d0\'a9\'c6\'b7\'c0\'e0\'a3\'bb\'d2\'b2\'bf\'c9\'c4\'dc\'cb\'e6\'ca\'b1\'d4\'da\'cb\'d1\'cb\'f7\'bf\'f2\'c0\'ef\'c3\'e6\'cb\'d1\'cb\'f7\'b9\'d8\'bc\'fc\'b4\'ca\'a3\'bb\'bb\'b9\'bf\'c9\'c4\'dc\'bd\'ab\'d2\'bb\'d0\'a9\'c9\'cc\'c6\'b7\'bc\'d3\'c8\'eb\'b9\'ba\'ce\'ef\'b3\'b5\'a3\'bb\'b6\'d4\'b9\'ba\'ce\'ef\'b3\'b5\'d6\'d0\'b5\'c4\'b6\'e0\'b8\'f6\'c9\'cc\'c6\'b7\'cf\'c2\'b6\'a9\'b5\'a5\'a3\'bb\'d7\'ee\'ba\'f3\'b6\'d4\'b6\'a9\'b5\'a5\'d6\'d0\'b5\'c4\'b6\'e0\'b8\'f6\'c9\'cc\'c6\'b7\'bd\'f8\'d0\'d0\'d6\'a7\'b8\'b6\'a1\'a3
+\f0 \
+\
+
+\f1 \'d3\'c3\'bb\'a7\'b5\'c4\'c3\'bf\'d2\'bb\'b4\'ce\'b2\'d9\'d7\'f7\'a3\'ac\'c6\'e4\'ca\'b5\'bf\'c9\'d2\'d4\'c0\'ed\'bd\'e2\'ce\'aa\'d2\'bb\'b8\'f6
+\f0 action
+\f1 \'a3\'ac\'b1\'c8\'c8\'e7\'b5\'e3\'bb\'f7\'a1\'a2\'cb\'d1\'cb\'f7\'a1\'a2\'cf\'c2\'b5\'a5\'a1\'a2\'d6\'a7\'b8\'b6
+\f0 \
+\
+
+\f1 \'d3\'c3\'bb\'a7
+\f0 session
+\f1 \'a3\'ac\'d6\'b8\'b5\'c4\'be\'cd\'ca\'c7\'a3\'ac\'b4\'d3\'d3\'c3\'bb\'a7\'b5\'da\'d2\'bb\'b4\'ce\'bd\'f8\'c8\'eb\'ca\'d7\'d2\'b3\'a3\'ac
+\f0 session
+\f1 \'be\'cd\'bf\'aa\'ca\'bc\'c1\'cb\'a1\'a3\'c8\'bb\'ba\'f3\'d4\'da\'d2\'bb\'b6\'a8\'ca\'b1\'bc\'e4\'b7\'b6\'ce\'a7\'c4\'da\'a3\'ac\'d6\'b1\'b5\'bd\'d7\'ee\'ba\'f3\'b2\'d9\'d7\'f7\'cd\'ea\'a3\'a8\'bf\'c9\'c4\'dc\'d7\'f6\'c1\'cb\'bc\'b8\'ca\'ae\'b4\'ce\'a1\'a2\'c9\'f5\'d6\'c1\'c9\'cf\'b0\'d9\'b4\'ce\'b2\'d9\'d7\'f7\'a3\'a9\'a1\'a3\'c0\'eb\'bf\'aa\'cd\'f8\'d5\'be\'a3\'ac\'b9\'d8\'b1\'d5\'e4\'af\'c0\'c0\'c6\'f7\'a3\'ac\'bb\'f2\'d5\'df\'b3\'a4\'ca\'b1\'bc\'e4\'c3\'bb\'d3\'d0\'d7\'f6\'b2\'d9\'d7\'f7\'a3\'bb\'c4\'c7\'c3\'b4
+\f0 session
+\f1 \'be\'cd\'bd\'e1\'ca\'f8\'c1\'cb\'a1\'a3
+\f0 \
+\
+
+\f1 \'d2\'d4\'c9\'cf\'d3\'c3\'bb\'a7\'d4\'da\'cd\'f8\'d5\'be\'c4\'da\'b5\'c4\'b7\'c3\'ce\'ca\'b9\'fd\'b3\'cc\'a3\'ac\'be\'cd\'b3\'c6\'d6\'ae\'ce\'aa\'d2\'bb\'b4\'ce
+\f0 session
+\f1 \'a1\'a3\'bc\'f2\'b5\'a5\'c0\'ed\'bd\'e2\'a3\'ac
+\f0 session
+\f1 \'be\'cd\'ca\'c7\'c4\'b3\'d2\'bb\'cc\'ec\'c4\'b3\'d2\'bb\'b8\'f6\'ca\'b1\'bc\'e4\'b6\'ce\'c4\'da\'a3\'ac\'c4\'b3\'b8\'f6\'d3\'c3\'bb\'a7\'b6\'d4\'cd\'f8\'d5\'be\'b4\'d3\'b4\'f2\'bf\'aa
+\f0 /
+\f1 \'bd\'f8\'c8\'eb\'a3\'ac\'b5\'bd\'d7\'f6\'c1\'cb\'b4\'f3\'c1\'bf\'b2\'d9\'d7\'f7\'a3\'ac\'b5\'bd\'d7\'ee\'ba\'f3\'b9\'d8\'b1\'d5\'e4\'af\'c0\'c0\'c6\'f7\'a1\'a3\'b5\'c4\'b9\'fd\'b3\'cc\'a1\'a3\'be\'cd\'bd\'d0\'d7\'f6
+\f0 session
+\f1 \'a1\'a3
+\f0 \
+\
+session
+\f1 \'ca\'b5\'bc\'ca\'c9\'cf\'be\'cd\'ca\'c7\'d2\'bb\'b8\'f6\'b5\'e7\'c9\'cc\'cd\'f8\'d5\'be\'d6\'d0\'d7\'ee\'bb\'f9\'b1\'be\'b5\'c4\'ca\'fd\'be\'dd\'ba\'cd\'b4\'f3\'ca\'fd\'be\'dd\'a1\'a3\'c4\'c7\'c3\'b4\'b4\'f3\'ca\'fd\'be\'dd\'a3\'ac\'c3\'e6\'cf\'f2
+\f0 C
+\f1 \'b6\'cb\'a3\'ac\'d2\'b2\'be\'cd\'ca\'c7
+\f0 customer
+\f1 \'a3\'ac\'cf\'fb\'b7\'d1\'d5\'df\'a3\'ac\'d3\'c3\'bb\'a7\'b6\'cb\'b5\'c4\'a3\'ac\'b7\'d6\'ce\'f6\'a3\'ac\'bb\'f9\'b1\'be\'ca\'c7\'d7\'ee\'bb\'f9\'b1\'be\'b5\'c4\'be\'cd\'ca\'c7\'c3\'e6\'cf\'f2\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca\'d0\'d0\'ce\'aa
+\f0 /
+\f1 \'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'a1\'a3
+\f0 \
+\
+\
+\
+\
+
+\f1 \'c4\'a3\'bf\'e9\'b5\'c4\'c4\'bf\'b1\'ea\'a3\'ba\'b6\'d4\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'bd\'f8\'d0\'d0\'b7\'d6\'ce\'f6
+\f0 \
+\
+1
+\f1 \'a1\'a2\'bf\'c9\'d2\'d4\'b8\'f9\'be\'dd\'ca\'b9\'d3\'c3\'d5\'df\'d6\'b8\'b6\'a8\'b5\'c4\'c4\'b3\'d0\'a9\'cc\'f5\'bc\'fe\'a3\'ac\'c9\'b8\'d1\'a1\'b3\'f6\'d6\'b8\'b6\'a8\'b5\'c4\'d2\'bb\'d0\'a9\'d3\'c3\'bb\'a7\'a3\'a8\'d3\'d0\'cc\'d8\'b6\'a8\'c4\'ea\'c1\'e4\'a1\'a2\'d6\'b0\'d2\'b5\'a1\'a2\'b3\'c7\'ca\'d0\'a3\'a9\'a3\'bb
+\f0 \
+2
+\f1 \'a1\'a2\'b6\'d4\'d5\'e2\'d0\'a9\'d3\'c3\'bb\'a7\'d4\'da\'d6\'b8\'b6\'a8\'c8\'d5\'c6\'da\'b7\'b6\'ce\'a7\'c4\'da\'b7\'a2\'c6\'f0\'b5\'c4
+\f0 session
+\f1 \'a3\'ac\'bd\'f8\'d0\'d0\'be\'db\'ba\'cf\'cd\'b3\'bc\'c6\'a3\'ac\'b1\'c8\'c8\'e7\'a3\'ac\'cd\'b3\'bc\'c6\'b3\'f6\'b7\'c3\'ce\'ca\'ca\'b1\'b3\'a4\'d4\'da
+\f0 0~3s
+\f1 \'b5\'c4
+\f0 session
+\f1 \'d5\'bc\'d7\'dc
+\f0 session
+\f1 \'ca\'fd\'c1\'bf\'b5\'c4\'b1\'c8\'c0\'fd\'a3\'bb
+\f0 \
+3
+\f1 \'a1\'a2\'b0\'b4\'ca\'b1\'bc\'e4\'b1\'c8\'c0\'fd\'a3\'ac\'b1\'c8\'c8\'e7\'d2\'bb\'cc\'ec\'d3\'d0
+\f0 24
+\f1 \'b8\'f6\'d0\'a1\'ca\'b1\'a3\'ac\'c6\'e4\'d6\'d0
+\f0 12:00~13:00
+\f1 \'b5\'c4
+\f0 session
+\f1 \'ca\'fd\'c1\'bf\'d5\'bc\'b5\'b1\'cc\'ec\'d7\'dc
+\f0 session
+\f1 \'ca\'fd\'c1\'bf\'b5\'c4
+\f0 50%
+\f1 \'a3\'ac\'b5\'b1\'cc\'ec\'d7\'dc
+\f0 session
+\f1 \'ca\'fd\'c1\'bf\'ca\'c7
+\f0 10000
+\f1 \'b8\'f6\'a3\'ac\'c4\'c7\'c3\'b4\'b5\'b1\'cc\'ec\'d7\'dc\'b9\'b2\'d2\'aa\'b3\'e9\'c8\'a1
+\f0 1000
+\f1 \'b8\'f6
+\f0 session
+\f1 \'a3\'ac
+\f0 ok
+\f1 \'a3\'ac
+\f0 12:00~13:00
+\f1 \'b5\'c4\'d3\'c3\'bb\'a7\'a3\'ac\'be\'cd\'b5\'c3\'b3\'e9\'c8\'a1
+\f0 1000*50%=500
+\f1 \'a1\'a3\'b6\'f8\'c7\'d2\'d5\'e2
+\f0 500
+\f1 \'b8\'f6\'d0\'e8\'d2\'aa\'cb\'e6\'bb\'fa\'b3\'e9\'c8\'a1\'a1\'a3
+\f0 \
+4
+\f1 \'a1\'a2\'bb\'f1\'c8\'a1\'b5\'e3\'bb\'f7\'c1\'bf\'a1\'a2\'cf\'c2\'b5\'a5\'c1\'bf\'ba\'cd\'d6\'a7\'b8\'b6\'c1\'bf\'b6\'bc\'c5\'c5\'c3\'fb
+\f0 10
+\f1 \'b5\'c4\'c9\'cc\'c6\'b7\'d6\'d6\'c0\'e0
+\f0 \
+5
+\f1 \'a1\'a2\'bb\'f1\'c8\'a1
+\f0 top10
+\f1 \'b5\'c4\'c9\'cc\'c6\'b7\'d6\'d6\'c0\'e0\'b5\'c4\'b5\'e3\'bb\'f7\'ca\'fd\'c1\'bf\'c5\'c5\'c3\'fb\'c7\'b0
+\f0 10
+\f1 \'b5\'c4
+\f0 session\
+6
+\f1 \'a1\'a2\'bf\'aa\'b7\'a2\'cd\'ea\'b1\'cf\'c1\'cb\'d2\'d4\'c9\'cf\'b9\'a6\'c4\'dc\'d6\'ae\'ba\'f3\'a3\'ac\'d0\'e8\'d2\'aa\'bd\'f8\'d0\'d0\'b4\'f3\'c1\'bf\'a1\'a2\'b8\'b4\'d4\'d3\'a1\'a2\'b8\'df\'b6\'cb\'a1\'a2\'c8\'ab\'cc\'d7\'b5\'c4\'d0\'d4\'c4\'dc\'b5\'f7\'d3\'c5
+\f0 \
+7
+\f1 \'a1\'a2\'ca\'ae\'d2\'da\'bc\'b6\'ca\'fd\'be\'dd\'c1\'bf\'b5\'c4
+\f0 troubleshooting
+\f1 \'a3\'a8\'b9\'ca\'d5\'cf\'bd\'e2\'be\'f6\'a3\'a9\'b5\'c4\'be\'ad\'d1\'e9\'d7\'dc\'bd\'e1
+\f0 \
+8
+\f1 \'a1\'a2\'ca\'fd\'be\'dd\'c7\'e3\'d0\'b1\'b5\'c4\'cd\'ea\'c3\'c0\'bd\'e2\'be\'f6\'b7\'bd\'b0\'b8
+\f0 \
+9
+\f1 \'a1\'a2\'ca\'b9\'d3\'c3
+\f0 mock
+\f1 \'a3\'a8\'c4\'a3\'c4\'e2\'a3\'a9\'b5\'c4\'ca\'fd\'be\'dd\'a3\'ac\'b6\'d4\'c4\'a3\'bf\'e9\'bd\'f8\'d0\'d0\'b5\'f7\'ca\'d4\'a1\'a2\'d4\'cb\'d0\'d0\'ba\'cd\'d1\'dd\'ca\'be\'d0\'a7\'b9\'fb
+\f0 \
+\
+\
+
+\f1 \'d4\'da\'ca\'b5\'bc\'ca\'c6\'f3\'d2\'b5\'cf\'ee\'c4\'bf\'d6\'d0\'b5\'c4\'ca\'b9\'d3\'c3\'bc\'dc\'b9\'b9\'a3\'ba
+\f0 \
+\
+1
+\f1 \'a1\'a2
+\f0 J2EE
+\f1 \'b5\'c4\'c6\'bd\'cc\'a8\'a3\'a8\'c3\'c0\'b9\'db\'b5\'c4\'c7\'b0\'b6\'cb\'d2\'b3\'c3\'e6\'a3\'a9\'a3\'ac\'cd\'a8\'b9\'fd\'d5\'e2\'b8\'f6
+\f0 J2EE
+\f1 \'c6\'bd\'cc\'a8\'bf\'c9\'d2\'d4\'c8\'c3\'ca\'b9\'d3\'c3\'d5\'df\'a3\'ac\'cc\'e1\'bd\'bb\'b8\'f7\'d6\'d6\'b8\'f7\'d1\'f9\'b5\'c4\'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'a3\'ac\'c6\'e4\'d6\'d0\'be\'cd\'b0\'fc\'c0\'a8\'d2\'bb\'b8\'f6\'c4\'a3\'bf\'e9\'a3\'ac\'be\'cd\'ca\'c7\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'b7\'d6\'ce\'f6\'c4\'a3\'bf\'e9\'a3\'bb\'bf\'c9\'d2\'d4\'d6\'b8\'b6\'a8\'b8\'f7\'d6\'d6\'b8\'f7\'d1\'f9\'b5\'c4\'c9\'b8\'d1\'a1\'cc\'f5\'bc\'fe\'a3\'ac\'b1\'c8\'c8\'e7\'c4\'ea\'c1\'e4\'b7\'b6\'ce\'a7\'a1\'a2\'d6\'b0\'d2\'b5\'a1\'a2\'b3\'c7\'ca\'d0\'b5\'c8\'b5\'c8\'a1\'a3\'a1\'a3
+\f0 \
+2
+\f1 \'a1\'a2
+\f0 J2EE
+\f1 \'c6\'bd\'cc\'a8\'bd\'d3\'ca\'d5\'b5\'bd\'c1\'cb\'d6\'b4\'d0\'d0\'cd\'b3\'bc\'c6\'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'b5\'c4\'c7\'eb\'c7\'f3\'d6\'ae\'ba\'f3\'a3\'ac\'bb\'e1\'b5\'f7\'d3\'c3\'b5\'d7\'b2\'e3\'b5\'c4\'b7\'e2\'d7\'b0\'c1\'cb
+\f0 spark-submit
+\f1 \'b5\'c4
+\f0 shell
+\f1 \'bd\'c5\'b1\'be\'a3\'a8
+\f0 Runtime
+\f1 \'a1\'a2
+\f0 Process
+\f1 \'a3\'a9\'a3\'ac
+\f0 shell
+\f1 \'bd\'c5\'b1\'be\'bd\'f8\'b6\'f8\'cc\'e1\'bd\'bb\'ce\'d2\'c3\'c7\'b1\'e0\'d0\'b4\'b5\'c4
+\f0 Spark
+\f1 \'d7\'f7\'d2\'b5\'a1\'a3
+\f0 \
+3
+\f1 \'a1\'a2
+\f0 Spark
+\f1 \'d7\'f7\'d2\'b5\'bb\'f1\'c8\'a1\'ca\'b9\'d3\'c3\'d5\'df\'d6\'b8\'b6\'a8\'b5\'c4\'c9\'b8\'d1\'a1\'b2\'ce\'ca\'fd\'a3\'ac\'c8\'bb\'ba\'f3\'d4\'cb\'d0\'d0\'b8\'b4\'d4\'d3\'b5\'c4\'d7\'f7\'d2\'b5\'c2\'df\'bc\'ad\'a3\'ac\'bd\'f8\'d0\'d0\'b8\'c3\'c4\'a3\'bf\'e9\'b5\'c4\'cd\'b3\'bc\'c6\'ba\'cd\'b7\'d6\'ce\'f6\'a1\'a3
+\f0 \
+4
+\f1 \'a1\'a2
+\f0 Spark
+\f1 \'d7\'f7\'d2\'b5\'cd\'b3\'bc\'c6\'ba\'cd\'b7\'d6\'ce\'f6\'b5\'c4\'bd\'e1\'b9\'fb\'a3\'ac\'bb\'e1\'d0\'b4\'c8\'eb
+\f0 MySQL
+\f1 \'d6\'d0\'a3\'ac\'d6\'b8\'b6\'a8\'b5\'c4\'b1\'ed
+\f0 \
+5
+\f1 \'a1\'a2\'d7\'ee\'ba\'f3\'a3\'ac
+\f0 J2EE
+\f1 \'c6\'bd\'cc\'a8\'a3\'ac\'ca\'b9\'d3\'c3\'d5\'df\'bf\'c9\'d2\'d4\'cd\'a8\'b9\'fd\'c7\'b0\'b6\'cb\'d2\'b3\'c3\'e6\'a3\'a8\'c3\'c0\'b9\'db\'a3\'a9\'a3\'ac\'d2\'d4\'b1\'ed\'b8\'f1\'a1\'a2\'cd\'bc\'b1\'ed\'b5\'c4\'d0\'ce\'ca\'bd\'d5\'b9\'ca\'be\'ba\'cd\'b2\'e9\'bf\'b4
+\f0 MySQL
+\f1 \'d6\'d0\'b4\'e6\'b4\'a2\'b5\'c4\'b8\'c3\'cd\'b3\'bc\'c6\'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'b5\'c4\'bd\'e1\'b9\'fb\'ca\'fd\'be\'dd\'a1\'a3
+\f0 \
+\
+\
+\
+\
+
+\f1 \'b1\'ed\'c3\'fb\'a3\'ba
+\f0 user_visit_action
+\f1 \'a3\'a8
+\f0 Hive
+\f1 \'b1\'ed\'a3\'a9\
+CREATE TABLE user_visit_action ( data String, user_id String, session_id String, page_id String, action_time String, search_keyword String, 
+\f0 click_category_id 
+\f1 String
+\f0 , click_product_id 
+\f1 String
+\f0 , order_category_ids 
+\f1 String
+\f0 , order_product_ids 
+\f1 String
+\f0 , pay_category_ids 
+\f1 String
+\f0 , pay_product_ids 
+\f1 String)\
+
+\f0 \
+date
+\f1 \'a3\'ba\'c8\'d5\'c6\'da\'a3\'ac\'b4\'fa\'b1\'ed\'d5\'e2\'b8\'f6\'d3\'c3\'bb\'a7\'b5\'e3\'bb\'f7\'d0\'d0\'ce\'aa\'ca\'c7\'d4\'da\'c4\'c4\'d2\'bb\'cc\'ec\'b7\'a2\'c9\'fa\'b5\'c4
+\f0 \
+user_id
+\f1 \'a3\'ba\'b4\'fa\'b1\'ed\'d5\'e2\'b8\'f6\'b5\'e3\'bb\'f7\'d0\'d0\'ce\'aa\'ca\'c7\'c4\'c4\'d2\'bb\'b8\'f6\'d3\'c3\'bb\'a7\'d6\'b4\'d0\'d0\'b5\'c4
+\f0 \
+session_id 
+\f1 \'a3\'ba\'ce\'a8\'d2\'bb\'b1\'ea\'ca\'b6\'c1\'cb\'c4\'b3\'b8\'f6\'d3\'c3\'bb\'a7\'b5\'c4\'d2\'bb\'b8\'f6\'b7\'c3\'ce\'ca
+\f0 session\
+page_id 
+\f1 \'a3\'ba\'b5\'e3\'bb\'f7\'c1\'cb\'c4\'b3\'d0\'a9\'c9\'cc\'c6\'b7
+\f0 /
+\f1 \'c6\'b7\'c0\'e0\'a3\'ac\'d2\'b2\'bf\'c9\'c4\'dc\'ca\'c7\'cb\'d1\'cb\'f7\'c1\'cb\'c4\'b3\'b8\'f6\'b9\'d8\'bc\'fc\'b4\'ca\'a3\'ac\'c8\'bb\'ba\'f3\'bd\'f8\'c8\'eb\'c1\'cb\'c4\'b3\'b8\'f6\'d2\'b3\'c3\'e6\'a3\'ac\'d2\'b3\'c3\'e6\'b5\'c4
+\f0 id\
+action_time 
+\f1 \'a3\'ba\'d5\'e2\'b8\'f6\'b5\'e3\'bb\'f7\'d0\'d0\'ce\'aa\'b7\'a2\'c9\'fa\'b5\'c4\'ca\'b1\'bc\'e4\'b5\'e3
+\f0 \
+search_keyword 
+\f1 \'a3\'ba\'c8\'e7\'b9\'fb\'d3\'c3\'bb\'a7\'d6\'b4\'d0\'d0\'b5\'c4\'ca\'c7\'d2\'bb\'b8\'f6\'cb\'d1\'cb\'f7\'d0\'d0\'ce\'aa\'a3\'ac\'b1\'c8\'c8\'e7\'cb\'b5\'d4\'da\'cd\'f8\'d5\'be
+\f0 /app
+\f1 \'d6\'d0\'a3\'ac\'cb\'d1\'cb\'f7\'c1\'cb\'c4\'b3\'b8\'f6\'b9\'d8\'bc\'fc\'b4\'ca\'a3\'ac\'c8\'bb\'ba\'f3\'bb\'e1\'cc\'f8\'d7\'aa\'b5\'bd\'c9\'cc\'c6\'b7\'c1\'d0\'b1\'ed\'d2\'b3\'c3\'e6\'a3\'bb\'cb\'d1\'cb\'f7\'b5\'c4\'b9\'d8\'bc\'fc\'b4\'ca
+\f0 \
+click_category_id 
+\f1 \'a3\'ba\'bf\'c9\'c4\'dc\'ca\'c7\'d4\'da\'cd\'f8\'d5\'be\'ca\'d7\'d2\'b3\'a3\'ac\'b5\'e3\'bb\'f7\'c1\'cb\'c4\'b3\'b8\'f6\'c6\'b7\'c0\'e0\'a3\'a8\'c3\'c0\'ca\'b3\'a1\'a2\'b5\'e7\'d7\'d3\'c9\'e8\'b1\'b8\'a1\'a2\'b5\'e7\'c4\'d4\'a3\'a9
+\f0 \
+click_product_id 
+\f1 \'a3\'ba\'bf\'c9\'c4\'dc\'ca\'c7\'d4\'da\'cd\'f8\'d5\'be\'ca\'d7\'d2\'b3\'a3\'ac\'bb\'f2\'d5\'df\'ca\'c7\'d4\'da\'c9\'cc\'c6\'b7\'c1\'d0\'b1\'ed\'d2\'b3\'a3\'ac\'b5\'e3\'bb\'f7\'c1\'cb\'c4\'b3\'b8\'f6\'c9\'cc\'c6\'b7\'a3\'a8\'b1\'c8\'c8\'e7\'df\'c8\'b2\'b8\'df\'c8\'b2\'b8\'bb\'f0\'b9\'f8
+\f0 XX
+\f1 \'c2\'b7\'b5\'ea
+\f0 3
+\f1 \'c8\'cb\'cc\'d7\'b2\'cd\'a1\'a2
+\f0 iphone 6s
+\f1 \'a3\'a9
+\f0 \
+order_category_ids 
+\f1 \'a3\'ba\'b4\'fa\'b1\'ed\'c1\'cb\'bf\'c9\'c4\'dc\'bd\'ab\'c4\'b3\'d0\'a9\'c9\'cc\'c6\'b7\'bc\'d3\'c8\'eb\'c1\'cb\'b9\'ba\'ce\'ef\'b3\'b5\'a3\'ac\'c8\'bb\'ba\'f3\'d2\'bb\'b4\'ce\'d0\'d4\'b6\'d4\'b9\'ba\'ce\'ef\'b3\'b5\'d6\'d0\'b5\'c4\'c9\'cc\'c6\'b7\'cf\'c2\'c1\'cb\'d2\'bb\'b8\'f6\'b6\'a9\'b5\'a5\'a3\'ac\'d5\'e2\'be\'cd\'b4\'fa\'b1\'ed\'c1\'cb\'c4\'b3\'b4\'ce\'cf\'c2\'b5\'a5\'b5\'c4\'d0\'d0\'ce\'aa\'d6\'d0\'a3\'ac\'d3\'d0\'c4\'c4\'d0\'a9
+\f0 \
+
+\f1 \'c9\'cc\'c6\'b7\'c6\'b7\'c0\'e0\'a3\'ac\'bf\'c9\'c4\'dc\'d3\'d0
+\f0 6
+\f1 \'b8\'f6\'c9\'cc\'c6\'b7\'a3\'ac\'b5\'ab\'ca\'c7\'be\'cd\'b6\'d4\'d3\'a6\'c1\'cb
+\f0 2
+\f1 \'b8\'f6\'c6\'b7\'c0\'e0\'a3\'ac\'b1\'c8\'c8\'e7\'d3\'d0
+\f0 3
+\f1 \'b8\'f9\'bb\'f0\'cd\'c8\'b3\'a6\'a3\'a8\'ca\'b3\'c6\'b7\'c6\'b7\'c0\'e0\'a3\'a9\'a3\'ac
+\f0 3
+\f1 \'b8\'f6\'b5\'e7\'b3\'d8\'a3\'a8\'c8\'d5\'d3\'c3\'c6\'b7\'c6\'b7\'c0\'e0\'a3\'a9
+\f0 \
+order_product_ids 
+\f1 \'a3\'ba\'c4\'b3\'b4\'ce\'cf\'c2\'b5\'a5\'a3\'ac\'be\'df\'cc\'e5\'b6\'d4\'c4\'c4\'d0\'a9\'c9\'cc\'c6\'b7\'cf\'c2\'b5\'c4\'b6\'a9\'b5\'a5
+\f0 \
+pay_category_ids 
+\f1 \'a3\'ba\'b4\'fa\'b1\'ed\'b5\'c4\'ca\'c7\'a3\'ac\'b6\'d4\'c4\'b3\'b8\'f6\'b6\'a9\'b5\'a5\'a3\'ac\'bb\'f2\'d5\'df\'c4\'b3\'bc\'b8\'b8\'f6\'b6\'a9\'b5\'a5\'a3\'ac\'bd\'f8\'d0\'d0\'c1\'cb\'d2\'bb\'b4\'ce\'d6\'a7\'b8\'b6\'b5\'c4\'d0\'d0\'ce\'aa\'a3\'ac\'b6\'d4\'d3\'a6\'c1\'cb\'c4\'c4\'d0\'a9\'c6\'b7\'c0\'e0
+\f0 \
+pay_product_ids
+\f1 \'a3\'ba\'b4\'fa\'b1\'ed\'b5\'c4\'a3\'ac\'d6\'a7\'b8\'b6\'d0\'d0\'ce\'aa\'cf\'c2\'a3\'ac\'b6\'d4\'d3\'a6\'b5\'c4\'c4\'c4\'d0\'a9\'be\'df\'cc\'e5\'b5\'c4\'c9\'cc\'c6\'b7
+\f0 \
+\
+user_visit_action
+\f1 \'b1\'ed\'a3\'ac\'c6\'e4\'ca\'b5\'be\'cd\'ca\'c7\'b7\'c5\'a3\'ac\'b1\'c8\'c8\'e7\'cb\'b5\'cd\'f8\'d5\'be\'a3\'ac\'bb\'f2\'d5\'df\'ca\'c7
+\f0 app
+\f1 \'a3\'ac\'c3\'bf\'cc\'ec\'b5\'c4\'b5\'e3\'bb\'f7\'c1\'f7\'b5\'c4\'ca\'fd\'be\'dd\'a1\'a3\'bf\'c9\'d2\'d4\'c0\'ed\'bd\'e2\'ce\'aa\'a3\'ac\'d3\'c3\'bb\'a7\'b6\'d4\'cd\'f8\'d5\'be
+\f0 /app
+\f1 \'c3\'bf\'b5\'e3\'bb\'f7\'d2\'bb\'cf\'c2\'a3\'ac\'be\'cd\'bb\'e1\'b4\'fa\'b1\'ed\'d4\'da\'d5\'e2\'b8\'f6\'b1\'ed\'c0\'ef\'c3\'e6\'b5\'c4\'d2\'bb\'cc\'f5\'ca\'fd\'be\'dd\'a1\'a3
+\f0 \
+\
+\
+
+\f1 \'d7\'f6\'c8\'ce\'ba\'ce\'b4\'f3\'ca\'fd\'be\'dd\'cf\'b5\'cd\'b3
+\f0 /
+\f1 \'c6\'bd\'cc\'a8\'c0\'e0\'b5\'c4\'cf\'ee\'c4\'bf\'a3\'ac\'ca\'d7\'cf\'c8\'b5\'da\'d2\'bb\'b2\'bd\'a3\'ac\'be\'cd\'ca\'c7\'d2\'aa\'d7\'f6\'ca\'fd\'be\'dd\'b5\'f7\'d1\'d0\'a1\'a3\'d2\'b2\'be\'cd\'ca\'c7\'b7\'d6\'ce\'f6\'c6\'bd\'cc\'a8\'d2\'aa\'bb\'f9\'d3\'da\'b5\'c4\'b5\'d7\'b2\'e3\'b5\'c4\'bb\'f9\'b4\'a1\'ca\'fd\'be\'dd\'a1\'a3\'b7\'d6\'ce\'f6\'b1\'ed\'bd\'e1\'b9\'b9\'a3\'ac\'c5\'aa\'c7\'e5\'b3\'fe\'b1\'ed\'d6\'ae\'bc\'e4\'b5\'c4\'b9\'d8\'cf\'b5\'a1\'a3\'b1\'ed\'d6\'d0\'b5\'c4\'ca\'fd\'be\'dd\'b5\'c4\'b8\'fc\'d0\'c2\'c1\'a3\'b6\'c8\'a3\'ac\'d2\'bb\'b8\'f6\'d0\'a1\'ca\'b1\'b8\'fc\'d0\'c2\'d2\'bb\'b4\'ce\'a3\'ac\'bb\'b9\'ca\'c7\'d2\'bb\'cc\'ec\'b8\'fc\'d0\'c2\'d2\'bb\'b4\'ce\'a1\'a3\'bb\'e1\'b2\'bb\'bb\'e1\'d3\'d0\'d4\'e0\'ca\'fd\'be\'dd\'a1\'a3\'c3\'bf\'cc\'ec\'ca\'b2\'c3\'b4\'ca\'b1\'ba\'f2\'ca\'fd\'be\'dd\'c4\'dc\'b9\'bb\'bd\'f8\'c0\'b4\'a1\'a3
+\f0 \
+\
+
+\f1 \'b1\'ed\'c3\'fb\'a3\'ba
+\f0 user_info
+\f1 \'a3\'a8
+\f0 Hive
+\f1 \'b1\'ed\'a3\'a9\
+CREATE TABLE user_info ( user_id bigint, username String, name String, age int, professional String, city String )\
+
+\f0 \
+user_id
+\f1 \'a3\'ba\'c6\'e4\'ca\'b5\'be\'cd\'ca\'c7\'c3\'bf\'d2\'bb\'b8\'f6\'d3\'c3\'bb\'a7\'b5\'c4\'ce\'a8\'d2\'bb\'b1\'ea\'ca\'b6\'a3\'ac\'cd\'a8\'b3\'a3\'ca\'c7\'d7\'d4\'d4\'f6\'b3\'a4\'b5\'c4
+\f0 Long
+\f1 \'c0\'e0\'d0\'cd\'a3\'ac
+\f0 BigInt
+\f1 \'c0\'e0\'d0\'cd
+\f0 \
+username
+\f1 \'a3\'ba\'ca\'c7\'c3\'bf\'b8\'f6\'d3\'c3\'bb\'a7\'b5\'c4\'b5\'c7\'c2\'bc\'c3\'fb
+\f0 \
+name
+\f1 \'a3\'ba\'c3\'bf\'b8\'f6\'d3\'c3\'bb\'a7\'d7\'d4\'bc\'ba\'b5\'c4\'ea\'c7\'b3\'c6\'a1\'a2\'bb\'f2\'d5\'df\'ca\'c7\'d5\'e6\'ca\'b5\'d0\'d5\'c3\'fb
+\f0 \
+age
+\f1 \'a3\'ba\'d3\'c3\'bb\'a7\'b5\'c4\'c4\'ea\'c1\'e4
+\f0 \
+professional
+\f1 \'a3\'ba\'d3\'c3\'bb\'a7\'b5\'c4\'d6\'b0\'d2\'b5
+\f0 \
+city
+\f1 \'a3\'ba\'d3\'c3\'bb\'a7\'cb\'f9\'d4\'da\'b5\'c4\'b3\'c7\'ca\'d0
+\f0 \
+\
+user_info
+\f1 \'b1\'ed\'a3\'ac\'ca\'b5\'bc\'ca\'c9\'cf\'a3\'ac\'be\'cd\'ca\'c7\'d2\'bb\'d5\'c5\'d7\'ee\'c6\'d5\'cd\'a8\'b5\'c4\'d3\'c3\'bb\'a7\'bb\'f9\'b4\'a1\'d0\'c5\'cf\'a2\'b1\'ed\'a3\'bb\'d5\'e2\'d5\'c5\'b1\'ed\'c0\'ef\'c3\'e6\'a3\'ac\'c6\'e4\'ca\'b5\'be\'cd\'ca\'c7\'b7\'c5\'d6\'c3\'c1\'cb\'cd\'f8\'d5\'be
+\f0 /app
+\f1 \'cb\'f9\'d3\'d0\'b5\'c4\'d7\'a2\'b2\'e1\'d3\'c3\'bb\'a7\'b5\'c4\'d0\'c5\'cf\'a2\'a1\'a3\'c4\'c7\'c3\'b4\'ce\'d2\'c3\'c7\'d5\'e2\'c0\'ef\'d2\'b2\'ca\'c7\'b6\'d4\'d3\'c3\'bb\'a7\'d0\'c5\'cf\'a2\'b1\'ed\'a3\'ac\'bd\'f8\'d0\'d0\'c1\'cb\'d2\'bb\'b6\'a8\'b3\'cc\'b6\'c8\'b5\'c4\'bc\'f2\'bb\'af\'a1\'a3\'b1\'c8\'c8\'e7\'c2\'d4\'c8\'a5\'c1\'cb\'ca\'d6\'bb\'fa\'ba\'c5\'b5\'c8\'d5\'e2\'d6\'d6\'ca\'fd\'be\'dd\'a1\'a3\'d2\'f2\'ce\'aa\'ce\'d2\'c3\'c7\'d5\'e2\'b8\'f6\'cf\'ee\'c4\'bf\'c0\'ef\'b2\'bb\'d0\'e8\'d2\'aa\'ca\'b9\'d3\'c3\'b5\'bd\'c4\'b3\'d0\'a9\'ca\'fd\'be\'dd\'a1\'a3\'c4\'c7\'c3\'b4\'ce\'d2\'c3\'c7\'be\'cd\'b1\'a3\'c1\'f4\'d2\'bb\'d0\'a9\'d7\'ee\'d6\'d8\'d2\'aa\'b5\'c4\'ca\'fd\'be\'dd\'a3\'ac\'bc\'b4\'bf\'c9\'a1\'a3
+\f0 \
+\
+
+\f1 \'b1\'ed\'c3\'fb\'a3\'ba
+\f0 task
+\f1 \'a3\'a8
+\f0 MySQL
+\f1 \'b1\'ed\'a3\'a9
+\f0 \
+task_id
+\f1 \'a3\'ba\'b1\'ed\'b5\'c4\'d6\'f7\'bc\'fc
+\f0 \
+task_name
+\f1 \'a3\'ba\'c8\'ce\'ce\'f1\'c3\'fb\'b3\'c6
+\f0 \
+create_time
+\f1 \'a3\'ba\'b4\'b4\'bd\'a8\'ca\'b1\'bc\'e4
+\f0 \
+start_time
+\f1 \'a3\'ba\'bf\'aa\'ca\'bc\'d4\'cb\'d0\'d0\'b5\'c4\'ca\'b1\'bc\'e4
+\f0 \
+finish_time
+\f1 \'a3\'ba\'bd\'e1\'ca\'f8\'d4\'cb\'d0\'d0\'b5\'c4\'ca\'b1\'bc\'e4
+\f0 \
+task_type
+\f1 \'a3\'ba\'c8\'ce\'ce\'f1\'c0\'e0\'d0\'cd\'a3\'ac\'be\'cd\'ca\'c7\'cb\'b5\'a3\'ac\'d4\'da\'d2\'bb\'cc\'d7\'b4\'f3\'ca\'fd\'be\'dd\'c6\'bd\'cc\'a8\'d6\'d0\'a3\'ac\'bf\'cf\'b6\'a8\'bb\'e1\'d3\'d0\'b8\'f7\'d6\'d6\'b2\'bb\'cd\'ac\'c0\'e0\'d0\'cd\'b5\'c4\'cd\'b3\'bc\'c6\'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'a3\'ac\'b1\'c8\'c8\'e7\'cb\'b5\'d3\'c3\'bb\'a7\'b7\'c3\'ce\'ca
+\f0 session
+\f1 \'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'a3\'ac\'d2\'b3\'c3\'e6\'b5\'a5\'cc\'f8\'d7\'aa\'bb\'af\'c2\'ca\'cd\'b3\'bc\'c6\'c8\'ce\'ce\'f1\'a3\'bb\'cb\'f9\'d2\'d4\'d5\'e2\'b8\'f6\'d7\'d6\'b6\'ce\'be\'cd\'b1\'ea\'ca\'b6\'c1\'cb\'c3\'bf\'b8\'f6\'c8\'ce\'ce\'f1\'b5\'c4\'c0\'e0\'d0\'cd
+\f0 \
+task_status
+\f1 \'a3\'ba\'c8\'ce\'ce\'f1\'d7\'b4\'cc\'ac\'a3\'ac\'c8\'ce\'ce\'f1\'b6\'d4\'d3\'a6\'b5\'c4\'be\'cd\'ca\'c7\'d2\'bb\'b4\'ce
+\f0 Spark
+\f1 \'d7\'f7\'d2\'b5\'b5\'c4\'d4\'cb\'d0\'d0\'a3\'ac\'d5\'e2\'c0\'ef\'be\'cd\'b1\'ea\'ca\'b6\'c1\'cb\'a3\'ac
+\f0 Spark
+\f1 \'d7\'f7\'d2\'b5\'ca\'c7\'d0\'c2\'bd\'a8\'a3\'ac\'bb\'b9\'c3\'bb\'d4\'cb\'d0\'d0\'a3\'ac\'bb\'b9\'ca\'c7\'d5\'fd\'d4\'da\'d4\'cb\'d0\'d0\'a3\'ac\'bb\'b9\'ca\'c7\'d2\'d1\'be\'ad\'d4\'cb\'d0\'d0\'cd\'ea\'b1\'cf
+\f0 \
+task_param
+\f1 \'a3\'ba\'d7\'ee\'d7\'ee\'d6\'d8\'d2\'aa\'a3\'ac\'d3\'c3\'c0\'b4\'ca\'b9\'d3\'c3
+\f0 JSON
+\f1 \'b5\'c4\'b8\'f1\'ca\'bd\'a3\'ac\'c0\'b4\'b7\'e2\'d7\'b0\'d3\'c3\'bb\'a7\'cc\'e1\'bd\'bb\'b5\'c4\'c8\'ce\'ce\'f1\'b6\'d4\'d3\'a6\'b5\'c4\'cc\'d8\'ca\'e2\'b5\'c4\'c9\'b8\'d1\'a1\'b2\'ce\'ca\'fd
+\f0 \
+\
+task
+\f1 \'b1\'ed\'a3\'ac\'c6\'e4\'ca\'b5\'ca\'c7\'d3\'c3\'c0\'b4\'b1\'a3\'b4\'e6\'c6\'bd\'cc\'a8\'b5\'c4\'ca\'b9\'d3\'c3\'d5\'df\'a3\'ac\'cd\'a8\'b9\'fd
+\f0 J2EE
+\f1 \'cf\'b5\'cd\'b3\'a3\'ac\'cc\'e1\'bd\'bb\'b5\'c4\'bb\'f9\'d3\'da\'cc\'d8\'b6\'a8\'c9\'b8\'d1\'a1\'b2\'ce\'ca\'fd\'b5\'c4\'b7\'d6\'ce\'f6\'c8\'ce\'ce\'f1\'a3\'ac\'b5\'c4\'d0\'c5\'cf\'a2\'a3\'ac\'be\'cd\'bb\'e1\'cd\'a8\'b9\'fd
+\f0 J2EE
+\f1 \'cf\'b5\'cd\'b3\'b1\'a3\'b4\'e6\'b5\'bd
+\f0 task
+\f1 \'b1\'ed\'d6\'d0\'c0\'b4\'a1\'a3\'d6\'ae\'cb\'f9\'d2\'d4\'ca\'b9\'d3\'c3
+\f0 MySQL
+\f1 \'b1\'ed\'a3\'ac\'ca\'c7\'d2\'f2\'ce\'aa
+\f0 J2EE
+\f1 \'cf\'b5\'cd\'b3\'ca\'c7\'d2\'aa\'ca\'b5\'cf\'d6\'bf\'ec\'cb\'d9\'b5\'c4\'ca\'b5\'ca\'b1\'b2\'e5\'c8\'eb\'ba\'cd\'b2\'e9\'d1\'af\'b5\'c4\'a1\'a3\
+\
+\
+\'b5\'da\'d2\'bb\'b1\'ed\'a3\'basession_aggr_stat\'b1\'ed\'a3\'ac\'b4\'e6\'b4\'a2\'b5\'da\'d2\'bb\'b8\'f6\'b9\'a6\'c4\'dc\'a3\'acsession\'be\'db\'ba\'cf\'cd\'b3\'bc\'c6\'b5\'c4\'bd\'e1\'b9\'fb\
+CREATE TABLE `session_aggr_stat` (\
+  `task_id` int(11) NOT NULL,\
+  `session_count` int(11) DEFAULT NULL,\
+  `1s_3s` double DEFAULT NULL,\
+  `4s_6s` double DEFAULT NULL,\
+  `7s_9s` double DEFAULT NULL,\
+  `10s_30s` double DEFAULT NULL,\
+  `30s_60s` double DEFAULT NULL,\
+  `1m_3m` double DEFAULT NULL,\
+  `3m_10m` double DEFAULT NULL,\
+  `10m_30m` double DEFAULT NULL,\
+  `30m` double DEFAULT NULL,\
+  `1_3` double DEFAULT NULL,\
+  `4_6` double DEFAULT NULL,\
+  `7_9` double DEFAULT NULL,\
+  `10_30` double DEFAULT NULL,\
+  `30_60` double DEFAULT NULL,\
+  `60` double DEFAULT NULL,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB DEFAULT CHARSET=utf8\
+\
+\'b5\'da\'b6\'fe\'b8\'f6\'b1\'ed\'a3\'basession_random_extract\'b1\'ed\'a3\'ac\'b4\'e6\'b4\'a2\'ce\'d2\'c3\'c7\'b5\'c4\'b0\'b4\'ca\'b1\'bc\'e4\'b1\'c8\'c0\'fd\'cb\'e6\'bb\'fa\'b3\'e9\'c8\'a1\'b9\'a6\'c4\'dc\'b3\'e9\'c8\'a1\'b3\'f6\'c0\'b4\'b5\'c41000\'b8\'f6session\
+CREATE TABLE `session_random_extract` (\
+  `task_id` int(11) NOT NULL,\
+  `session_id` varchar(255) DEFAULT NULL,\
+  `start_time` varchar(50) DEFAULT NULL,\
+  `end_time` varchar(50) DEFAULT NULL,\
+  `search_keywords` varchar(255) DEFAULT NULL,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB DEFAULT CHARSET=utf8\
+\
+\'b5\'da\'c8\'fd\'b8\'f6\'b1\'ed\'a3\'batop10_category\'b1\'ed\'a3\'ac\'b4\'e6\'b4\'a2\'b0\'b4\'b5\'e3\'bb\'f7\'a1\'a2\'cf\'c2\'b5\'a5\'ba\'cd\'d6\'a7\'b8\'b6\'c5\'c5\'d0\'f2\'b3\'f6\'c0\'b4\'b5\'c4top10\'c6\'b7\'c0\'e0\'ca\'fd\'be\'dd\
+CREATE TABLE `top10_category` (\
+  `task_id` int(11) NOT NULL,\
+  `category_id` int(11) DEFAULT NULL,\
+  `click_count` int(11) DEFAULT NULL,\
+  `order_count` int(11) DEFAULT NULL,\
+  `pay_count` int(11) DEFAULT NULL,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB DEFAULT CHARSET=utf8\
+\
+\'b5\'da\'cb\'c4\'b8\'f6\'b1\'ed\'a3\'batop10_category_session\'b1\'ed\'a3\'ac\'b4\'e6\'b4\'a2top10\'c3\'bf\'b8\'f6\'c6\'b7\'c0\'e0\'b5\'c4\'b5\'e3\'bb\'f7top10\'b5\'c4session\
+CREATE TABLE `top10_category_session` (\
+  `task_id` int(11) NOT NULL,\
+  `category_id` int(11) DEFAULT NULL,\
+  `session_id` varchar(255) DEFAULT NULL,\
+  `click_count` int(11) DEFAULT NULL,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;\
+\
+\'d7\'ee\'ba\'f3\'d2\'bb\'d5\'c5\'b1\'ed\'a3\'basession_detail\'a3\'ac\'d3\'c3\'c0\'b4\'b4\'e6\'b4\'a2\'cb\'e6\'bb\'fa\'b3\'e9\'c8\'a1\'b3\'f6\'c0\'b4\'b5\'c4session\'b5\'c4\'c3\'f7\'cf\'b8\'ca\'fd\'be\'dd\'a1\'a2top10\'c6\'b7\'c0\'e0\'b5\'c4session\'b5\'c4\'c3\'f7\'cf\'b8\'ca\'fd\'be\'dd\
+CREATE TABLE `session_detail` (\
+  `task_id` int(11) NOT NULL,\
+  `user_id` int(11) DEFAULT NULL,\
+  `session_id` varchar(255) DEFAULT NULL,\
+  `page_id` int(11) DEFAULT NULL,\
+  `action_time` varchar(255) DEFAULT NULL,\
+  `search_keyword` varchar(255) DEFAULT NULL,\
+  `click_category_id` int(11) DEFAULT NULL,\
+  `click_product_id` int(11) DEFAULT NULL,\
+  `order_category_ids` varchar(255) DEFAULT NULL,\
+  `order_product_ids` varchar(255) DEFAULT NULL,\
+  `pay_category_ids` varchar(255) DEFAULT NULL,\
+  `pay_product_ids` varchar(255) DEFAULT NULL,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB DEFAULT CHARSET=utf8\
+\
+\'b6\'ee\'cd\'e2\'b5\'c4\'d2\'bb\'d5\'c5\'b1\'ed\'a3\'batask\'b1\'ed\'a3\'ac\'d3\'c3\'c0\'b4\'b4\'e6\'b4\'a2J2EE\'c6\'bd\'cc\'a8\'b2\'e5\'c8\'eb\'c6\'e4\'d6\'d0\'b5\'c4\'c8\'ce\'ce\'f1\'b5\'c4\'d0\'c5\'cf\'a2\
+CREATE TABLE `task` (\
+  `task_id` int(11) NOT NULL AUTO_INCREMENT,\
+  `task_name` varchar(255) DEFAULT NULL,\
+  `create_time` varchar(255) DEFAULT NULL,\
+  `start_time` varchar(255) DEFAULT NULL,\
+  `finish_time` varchar(255) DEFAULT NULL,\
+  `task_type` varchar(255) DEFAULT NULL,\
+  `task_status` varchar(255) DEFAULT NULL,\
+  `task_param` text,\
+  PRIMARY KEY (`task_id`)\
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8\
+\
+}
